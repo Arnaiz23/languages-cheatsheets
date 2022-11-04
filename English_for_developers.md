@@ -1,4 +1,4 @@
-# Weird pronuntation
+n# Weird pronuntation
 
 * Caché -> Kash
 
@@ -8,7 +8,7 @@
 * Spaces or Tabs: Indent/Indentation
 * ( ) Parentheses
 *   { } Curly Brackets, curly braces
-*   [ ] Square Brackets
+*   `[ ]` Square Brackets
 *   ‘ ’ Single quotes
 *   “ ” Double quotes, typographic or curly quotes in text
 *   ` ` Backquotes, Backtick
@@ -315,3 +315,24 @@ No olvides las pruebas de tu software y los diferentes tipos que existen.
 -   _QA (Quality Assurance)_
 -   _CI: (Continuous Integration)_
 -   _TDD (Test Driven Development)_
+
+
+# Interviews
+
+### Preguntas típicas de una entrevista
+
+Prepara la respuesta a algunas preguntas normales de cualquier entrevista de trabajo.
+
+-   _I want to know more about you._
+-   _With which technologies have you worked?_
+-   _Why did you switch jobs?_
+-   _Why do you want to work here?_
+-   _What has been your more challenging project?_
+
+### Tus propias preguntas
+
+Está muy bien visto que tú hagas tus propias preguntas sobre las cosas que quieres saber o indagar sobre la empresa. Veamos algunos ejemplos:
+
+-   _How do your teams work here?_
+-   _Do you have any policies about conferences and events like that?_
+-   _How do you support your junior developers when they join the company?_

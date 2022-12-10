@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "Nvim_Personal.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "Nvim_Personal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
+                "file": "Nvim_Personal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux.md"
+                "file": "Nvim_Personal.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "8a9b57b38bab733b",
   "lastOpenFiles": [
+    "Linux.md",
     "Responsive_sizes.md",
     "Nvim_Personal.md",
     "TypeScript.md",

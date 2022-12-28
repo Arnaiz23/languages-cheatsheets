@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "a3e4513741bcd0e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next JS 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ca05bacfbbb68e62",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nvim_Personal.md",
+                "file": "Next JS 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nvim_Personal.md",
+                "file": "Next JS 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nvim_Personal.md"
+                "file": "Next JS 13.md"
               }
             }
           }
@@ -173,11 +185,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a9b57b38bab733b",
+  "active": "a3e4513741bcd0e2",
   "lastOpenFiles": [
+    "Nvim_Personal.md",
     "Linux.md",
     "Responsive_sizes.md",
-    "Nvim_Personal.md",
     "TypeScript.md",
     "English_for_developers.md"
   ]

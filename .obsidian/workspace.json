@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "05fa1e4b3e2cc1bc",
+        "id": "5f816e0834688f22",
         "type": "tabs",
         "children": [
           {
-            "id": "bedd8a41e18234a3",
+            "id": "a2e4e55e1258fd65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb079159a6e28f36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nvim_Personal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a9b57b38bab733b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nvim_Personal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3e4513741bcd0e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next JS 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca05bacfbbb68e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript.md",
+                "file": "Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next JS 13.md",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next JS 13.md",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next JS 13.md"
+                "file": "Linux.md"
               }
             }
           }
@@ -185,12 +136,23 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3e4513741bcd0e2",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a2e4e55e1258fd65",
   "lastOpenFiles": [
+    "TypeScript.md",
+    "Next JS 13.md",
     "Nvim_Personal.md",
     "Linux.md",
     "Responsive_sizes.md",
-    "TypeScript.md",
     "English_for_developers.md"
   ]
 }

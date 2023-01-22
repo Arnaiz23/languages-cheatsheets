@@ -31,6 +31,15 @@
 -   If you write object-oriented code, use interfaces. If you write functional code, use type aliases.
 -   Use interfaces for public API libraries and types for components, state, JSX, etc.
 
+## Interfaces
+
+```typescript
+interface SquareConfig {
+  color?: string;
+  width?: number;
+}
+```
+
 # Enums
 
 ```javascript
